@@ -5,7 +5,7 @@ content: |
 style: "style1 medium onscroll-fade-in"
 
 nav_links:
-  - name: Top
+  - name: Home
     link: "#start"
   - name: Travel
     link: "#travel"
