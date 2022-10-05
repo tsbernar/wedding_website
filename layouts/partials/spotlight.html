@@ -5,6 +5,13 @@
         {{ with .button }}<ul class="actions stacked">
             <li><a href="{{ .link }}" {{ with .new_tab }} target="_blank" rel="noopener noreferrer" {{ end }} class="button">{{ .label }}</a></li>
         </ul>{{ end }}
+        {{ with .buttons }}
+        <ul class="actions special">
+            {{ range . }}
+                <li><a href="{{ .link }}" {{ with .new_tab }} target="_blank" rel="noopener noreferrer" {{ end }} class="button">{{ .label }}</a></li>
+            {{ end }} 
+        </ul>
+        {{ end }}
     </div>
     {{ with .image }}<div class="image">
         <img src="{{ . }}" alt="" />

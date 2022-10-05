@@ -1,7 +1,6 @@
-title : "Schedule..."
+title : "Events"
 id: "schedule"
-content: |
-  Or schedule info in a grid
+content: "Wedding Weekend"
 style: "style1 medium onscroll-fade-in"
 
 nav_links:

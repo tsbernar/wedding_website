@@ -1,10 +1,13 @@
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-center image-position-center onscroll-image-fade-in"
 id: "travel"
-title : "Hotel, etc."
+title : "Where to Stay"
 content: |
-  Links to hotels, etc. here..
-button: 
-  label: "Link to hotel"
-  link: "https://www.marriott.com/event-reservations/reservation-link.mi?id=1664295273028&key=GRP&app=resvlink"
-  new_tab: true
+  Hotel-blocks are reserved at the Ritz-Carlton and Le Méridien in Downtown Clayton
+buttons: 
+  - label: "The Ritz"
+    link: "https://www.marriott.com/event-reservations/reservation-link.mi?id=1664295273028&key=GRP&app=resvlink"
+    new_tab: true
+  - label: "Le Méridien"
+    link: "https://www.marriott.com/event-reservations/reservation-link.mi?id=1664295273028&key=GRP&app=resvlink"
+    new_tab: true
 image: "images/ritz.jpg"

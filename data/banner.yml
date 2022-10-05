@@ -1,15 +1,12 @@
 style: "style5 invert orient-left content-align-center fullscreen onload-image-fade-in onload-content-fade-up"
-title: "Trevor + Cameron"
+title: "Cameron & Trevor"
 id: "start"
 subtitle: |
-  2023 · 04 · 29
+  April 29, 2023
 content : |
-  St. Louis, MO.  Some more info here maybe?
+  St. Louis, Missouri
 button:
-  label : "Maybe we want it lighter.."
-  link : "#diff_style"
-button:
-  label : "Maybe we want it lighter.."
+  label : "WELCOME"
   link : "#diff_style"
   style: primary
 image : "images/ct1.jpg"
