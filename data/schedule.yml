@@ -19,6 +19,7 @@ items:
   - name : "Rehersal Dinner"
     content : "5pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style1 major fa-utensils-alt"
+    image : "images/icons/dinner_small.png"  # image will override icon from "style"
 
   - hide: "hide" # these are blank tiles to help with spacing, will hide when grid is 1x wide
 
@@ -27,10 +28,12 @@ items:
   - name : "Welcome Drinks"
     content : "8pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : " style1 major fa-glass-martini-alt"
+    image : "images/icons/champagne_small.png"
     
   - name : "Ceremoney"
     content : "5pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "style1 major fa-heart"
+    image : "images/icons/rings_small.png"
 
   - hide: "hide"
 
@@ -39,9 +42,11 @@ items:
   - name : "Reception"
     content : "6pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "style1 major fa-glass-cheers"
+    image : "images/icons/party_small.png"
 
   - name : "Fairwell Brunch"
     content : "11am Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "style1 major fa-coffee"
+    image : "images/icons/suitcases_small.png"
  
   - hide: "hide"
