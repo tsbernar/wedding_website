@@ -6,7 +6,7 @@
         <br>
         <span class="icon fa-snowboarding"></span>
         <br>
-            check out the code <a target="_blank" href="http://www.example.com"> here</a> <span class="icon brands style1 fa-github"></span></p>
+         {{ with .Site.Params.social.github }} check out the code <a target="_blank"  href="{{.}}"> here </a><span class="icon brands style1 fa-github"></span></p> {{ end }}
         </p>
 </div>
 </footer>
