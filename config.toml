@@ -20,4 +20,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params.social]
-  github = "example.com"
+  github = "https://github.com/tsbernar/wedding_website"
