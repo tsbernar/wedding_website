@@ -1,0 +1,23 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Trevor + Cameron"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+publishDir = "public"
+
+# In prod we would change to something like this: 
+# publishDir = "/var/www/wedding_website"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params.social]
+  github = "example.com"

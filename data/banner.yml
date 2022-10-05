@@ -1,0 +1,16 @@
+style: "style5 invert orient-left content-align-center fullscreen onload-image-fade-in onload-content-fade-up"
+title: "Trevor + Cameron"
+id: "start"
+subtitle: |
+  2023 · 04 · 29
+content : |
+  St. Louis, MO.  Some more info here maybe?
+button:
+  label : "Maybe we want it lighter.."
+  link : "#diff_style"
+button:
+  label : "Maybe we want it lighter.."
+  link : "#diff_style"
+  style: primary
+image : "images/ct1.jpg"
+

@@ -1,0 +1,10 @@
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "travel"
+title : "Hotel, etc."
+content: |
+  Links to hotels, etc. here..
+button: 
+  label: "Link to hotel"
+  link: "https://www.marriott.com/event-reservations/reservation-link.mi?id=1664295273028&key=GRP&app=resvlink"
+  new_tab: true
+image: "images/ritz.jpg"

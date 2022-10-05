@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "banner" site.Data.banner2 }}
+	{{ partial "schedule" site.Data.schedule }}
+	{{ partial "spotlight" site.Data.travel }}
+	{{ partial "spotlight" site.Data.registry }}
+	{{ partial "gallery" site.Data.gallery }}
+	{{ partial "template/footer" . }}
+
+{{ end }}

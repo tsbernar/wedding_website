@@ -1,0 +1,47 @@
+title : "Schedule..."
+id: "schedule"
+content: |
+  Or schedule info in a grid
+style: "style1 medium onscroll-fade-in"
+
+nav_links:
+  - name: Top
+    link: "#start"
+  - name: Travel
+    link: "#travel"
+  - name: Registry
+    link: "#registry"
+  - name: Gallery
+    link: "#gallery"
+
+items:
+
+  - name : "Rehersal Dinner"
+    content : "5pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style1 major fa-utensils-alt"
+
+  - hide: "hide" # these are blank tiles to help with spacing, will hide when grid is 1x wide
+
+  - hide: "hide"
+
+  - name : "Welcome Drinks"
+    content : "8pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : " style1 major fa-glass-martini-alt"
+    
+  - name : "Ceremoney"
+    content : "5pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style1 major fa-heart"
+
+  - hide: "hide"
+
+  - hide: "hide"
+    
+  - name : "Reception"
+    content : "6pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style1 major fa-glass-cheers"
+
+  - name : "Fairwell Brunch"
+    content : "11am Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style1 major fa-coffee"
+ 
+  - hide: "hide"

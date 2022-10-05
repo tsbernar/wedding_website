@@ -1,0 +1,17 @@
+style: "style1 orient-left content-align-center fullscreen onload-image-fade-in onload-content-fade-up"
+title : "Or a differnet style?"
+id: "diff_style"
+subtitle: |
+  2023 · 04 · 29
+content : |
+  St. Louis, MO.  Some more info here maybe?
+image : "images/ct2.jpg"
+nav_links:
+  - name: Schedule
+    link: "#schedule"
+  - name: Travel
+    link: "#travel"
+  - name: Registry
+    link: "#registry"
+  - name: Gallery
+    link: "#gallery"

@@ -1,0 +1,16 @@
+<section class="wrapper style1 align-center" {{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="inner">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <div class="items {{ .style }}">
+            {{ range .items }}
+                {{ partial "schedule_item" . }}
+            {{ end }}
+        </div>
+        <ul class="actions special">
+            {{ range .nav_links }}
+            <li><a href="{{ .link }}" class="button fit-small smooth-scroll">{{ .name }}</a></li>
+            {{ end }} 
+        </ul>
+    </div>
+</section>
