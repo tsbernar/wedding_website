@@ -1,0 +1,9 @@
+style: "style2 orient-left content-align-center image-position-center onscroll-image-fade-in"
+id: "to_do"
+title : Go to the arch!
+content: |
+  it's pretty neat
+button: 
+  label: "link to something?"
+  #link: "#"
+image: "images/arch.jpg"

@@ -1,0 +1,8 @@
+style: "style2 orient-left content-align-center image-position-center onscroll-image-fade-in"
+id: "to_do"
+title : Maybe 3 times?
+content: 
+button: 
+  label: "link to something?"
+  #link: "#"
+image: "images/arch.jpg"
