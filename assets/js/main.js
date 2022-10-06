@@ -7,22 +7,14 @@
 
 (function($) {
 
-
+	$('.to_do').hide();
 	$('.to_do_button')
 				.on('click', function(event) {
-					if ($('.to_do').hasClass('hidden')) {
-						$('.to_do').removeClass('hidden');
+					if (!$('.to_do').is(":visible")) {
+						$('.to_do').fadeIn(1000);
+						$('.to_do_button').animate({"opacity": 0}, 500);
 					} 
-					else {
-						$('.to_do').addClass('hidden');
-					}
 
-					if ($('.to_do').hasClass('hidden')) {
-						$('.to_do_button').html("Show");
-					}
-					if (!$('.to_do').hasClass('hidden')) {
-						$('.to_do_button').html("Hide");
-					}
 				});
 
 

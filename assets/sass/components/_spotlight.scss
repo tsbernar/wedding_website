@@ -1011,7 +1011,3 @@
 	}
 
 	@include color-spotlight;
-
-	.spotlight.hidden {
-		@include vendor('display', 'none');
-	}
