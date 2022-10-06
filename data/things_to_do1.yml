@@ -1,5 +1,4 @@
-style: "style2 orient-left content-align-center image-position-center onscroll-image-fade-in"
-id: "to_do"
+style: "style2 hidden to_do orient-left content-align-center image-position-center onscroll-image-fade-in"
 title : Go to the arch!
 content: |
   it's pretty neat

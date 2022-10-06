@@ -1,5 +1,4 @@
-style: "style2 orient-right content-align-center image-position-center onscroll-image-fade-in"
-id: "to_do"
+style: "style2 to_do hidden orient-right content-align-center image-position-center onscroll-image-fade-in"
 title : Go again!
 content: |
   really

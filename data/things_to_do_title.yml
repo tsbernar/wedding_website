@@ -3,4 +3,3 @@ style: "style1 onscroll-fade-in"
 id: "things_to_do"
 button:
   label: Show
-  link:

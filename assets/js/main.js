@@ -7,6 +7,25 @@
 
 (function($) {
 
+
+	$('.to_do_button')
+				.on('click', function(event) {
+					if ($('.to_do').hasClass('hidden')) {
+						$('.to_do').removeClass('hidden');
+					} 
+					else {
+						$('.to_do').addClass('hidden');
+					}
+
+					if ($('.to_do').hasClass('hidden')) {
+						$('.to_do_button').html("Show");
+					}
+					if (!$('.to_do').hasClass('hidden')) {
+						$('.to_do_button').html("Hide");
+					}
+				});
+
+
 	var	$window = $(window),
 		$body = $('body'),
 		$wrapper = $('#wrapper');
