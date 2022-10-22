@@ -2,7 +2,7 @@ style: "style1 orient-left content-align-center image-position-center onscroll-i
 id: "registry"
 title : "Registry"
 content: |
-  Please know that your presence at our wedding is present enough! <br> However, if you feel so compelled, in lieu of a traditional registry, we'd be grateful for a gift to the Heifer Project in our honor. One of the ways that The Heifer Project works to support sustainable agriculture and economic development, is by providing would-be independent farmers with the animals to get them started, buy some goats in our name!
+  Please know that your presence at our wedding is present enough! <br> However, if you feel so compelled, in lieu of a traditional registry, we'd be grateful for a gift to the Heifer Project in our honor. One of the ways that The Heifer Project works to support sustainable agriculture and economic development, is by providing would-be independent farmers with the animals to get them started, buy them some goats in our name!
 button:
   new_tab: True
   label: "Buy us goats!"
