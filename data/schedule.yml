@@ -18,7 +18,7 @@ nav_links:
 items:
 
   - name : "Rehersal Dinner"
-    content : "5pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "6:00 pm - Invitation only <br> The Hall at Olive + Oak <br> <a href='https://g.page/oliveandoakstl' target='_blank' rel='noopener noreferrer'>216 W Lockwood Ave, Webster Groves</a>"
     style : "solid style1 major fa-utensils-alt"
     image : "images/icons/dinner_small.png"  # image will override icon from "style"
 
@@ -27,12 +27,12 @@ items:
   - hide: "hide"
 
   - name : "Welcome Drinks"
-    content : "8pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "8:30 pm <br> The Hall at Olive + Oak <br> <a href='https://g.page/oliveandoakstl' target='_blank' rel='noopener noreferrer'> 216 W Lockwood Ave, Webster Groves </a>"
     style : " style1 major fa-glass-martini-alt"
     image : "images/icons/champagne_small.png"
     
   - name : "Ceremoney"
-    content : "5pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "5:00 pm <br> St. Peter's Episcopal Church <br> <a href='https://goo.gl/maps/2GaHxhHfyDGc2zBQ6' target='_blank' rel='noopener noreferrer'> 110 N Warson Rd. </a><br> Transportation provided from The Rtiz and Le Méridien at 4:30 pm"
     style : "style1 major fa-heart"
     image : "images/icons/rings_small.png"
 
@@ -41,12 +41,12 @@ items:
   - hide: "hide"
     
   - name : "Reception"
-    content : "6pm Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "6:00 pm <br> Old Warson Country Club <br> <a href='https://goo.gl/maps/M29F1WfgfVrRoK2p9' target='_blank' rel='noopener noreferrer'> 9841 Old Warson Rd. </a><br> Transportation provied following the ceremony."
     style : "style1 major fa-glass-cheers"
     image : "images/icons/party_small.png"
 
   - name : "Fairwell Brunch"
-    content : "11am Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "10:30 am - 12:30 pm <br> The Ritz-Carlton <br> <a href='https://goo.gl/maps/kg5QfoaFQSnM7xxDA' target='_blank' rel='noopener noreferrer'> 100 Carondelet Plaza </a>"
     style : "style1 major fa-coffee"
     image : "images/icons/suitcases_small.png"
  

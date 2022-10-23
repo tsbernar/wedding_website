@@ -5,5 +5,5 @@
         <span class="icon {{ .style }}"></span>
     {{ end }}
     <h3>{{ .name }}</h3>
-    <p>{{ .content }}</p>
+    <p>{{ .content | safeHTML }}</p>
 </section>

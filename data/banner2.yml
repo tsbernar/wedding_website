@@ -1,10 +1,6 @@
 style: "style1 orient-left content-align-center fullscreen onload-image-fade-in onload-content-fade-up"
-title : "April 29, 2023"
+title_h2 : "April 29, 2023"
 id: "diff_style"
-#subtitle: |
-#  April 29, 2023
-#content : |
-#  St. Louis, Missouri
 image : "images/ct2.jpg"
 nav_links:
   - name: Events

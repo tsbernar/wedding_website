@@ -2,6 +2,7 @@
 <section class="banner {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
     <div class="content">
         {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .title_h2 }}<h2>{{ . }}</h2>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .button }}<ul class="actions stacked">
