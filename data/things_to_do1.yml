@@ -1,9 +1,10 @@
 style: "style2 orient-left content-align-center image-position-center onscroll-image-fade-in"
 id: "to_do"
-title : Go to the arch!
+title: Clayton
 content: |
-  it's pretty neat
-button: 
-  label: "link to something?"
-  #link: "#"
+  <strong> What to do: </strong> Manicures at Ladue Nails & Spa, Spa at the Ritz, Hi-Pointe Movie Theater <br>
+  <strong> Where to eat: </strong> City Coffee and Creperie, Kaldi's Coffee, Half & Half, 5 Star Burgers, The Ivy, Pastaria
+#button:
+#  label: "link to something?"
+#link: "#"
 image: "images/arch.jpg"

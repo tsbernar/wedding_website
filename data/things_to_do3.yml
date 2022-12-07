@@ -1,8 +1,10 @@
 style: "style2 orient-left content-align-center image-position-center onscroll-image-fade-in"
 id: "to_do"
-title : Maybe 3 times?
-content: 
-button: 
-  label: "link to something?"
-  #link: "#"
+title: Forest Park
+content: |
+  <strong> What to do: </strong> Saint Louis Art Museum, Saint Louis Science Center and Planetarium, Forest Park Golf Course, the Saint Louis Zoo <br>
+  <strong> Where to eat: </strong> The Boathouse at Forest Park
+#button:
+#  label: "link to something?"
+#link: "#"
 image: "images/arch.jpg"

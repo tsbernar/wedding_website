@@ -1,0 +1,10 @@
+style: "style2 orient-left content-align-center image-position-center onscroll-image-fade-in"
+id: "to_do"
+title: Central West End and Tower Grove Park
+content: |
+  <strong> What to do: </strong> Left Bank Books, Urban Chestnut Brewery, the Saturday Market at Tower Grove, Missouri Botanical Garden <br>
+  <strong> Where to eat: </strong> Brasserie, Olio, Vincent Van Doughnut, Union Loafers, Bowood
+#button:
+#  label: "link to something?"
+#link: "#"
+image: "images/arch.jpg"

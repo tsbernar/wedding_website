@@ -1,9 +1,10 @@
 style: "style2 orient-right content-align-center image-position-center onscroll-image-fade-in"
 id: "to_do"
-title : Go again!
+title: The Loop
 content: |
-  really
-button: 
-  label: "link to something?"
-  #link: "#"
+  <strong> What to do: </strong> Stroll and shop, Pin-Up Bowl <br>
+  <strong> Where to eat: </strong> Mission Taco, Fitz's Delmar, Blueberry Hill
+#button:
+#  label: "link to something?"
+#link: "#"
 image: "images/arch.jpg"
