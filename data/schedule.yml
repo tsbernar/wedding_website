@@ -1,4 +1,4 @@
-title : "Events"
+title: "Events"
 id: "schedule"
 content: "Wedding Weekend"
 style: "style1 medium onscroll-fade-in"
@@ -16,38 +16,37 @@ nav_links:
     link: "#things_to_do"
 
 items:
-
-  - name : "Rehearsal Dinner"
-    content : "6:00 pm - Invitation only <br> The Hall at Olive + Oak <br> <a href='https://g.page/oliveandoakstl' target='_blank' rel='noopener noreferrer'>216 W Lockwood Ave, Webster Groves</a>"
-    style : "solid style1 major fa-utensils-alt"
-    image : "images/icons/dinner_small.png"  # image will override icon from "style"
+  - name: "Rehearsal Dinner"
+    content: "April 28th <br> 6:00 pm - Invitation only <br> The Hall at Olive + Oak <br> <a href='https://g.page/oliveandoakstl' target='_blank' rel='noopener noreferrer'>216 W Lockwood Ave, Webster Groves</a>"
+    style: "solid style1 major fa-utensils-alt"
+    image: "images/icons/dinner_small.png" # image will override icon from "style"
 
   - hide: "hide" # these are blank tiles to help with spacing, will hide when grid is 1x wide
 
   - hide: "hide"
 
-  - name : "Welcome Drinks"
-    content : "8:30 pm <br> The Hall at Olive + Oak <br> <a href='https://g.page/oliveandoakstl' target='_blank' rel='noopener noreferrer'> 216 W Lockwood Ave, Webster Groves </a>"
-    style : " style1 major fa-glass-martini-alt"
-    image : "images/icons/champagne_small.png"
-    
-  - name : "Ceremony"
-    content : "5:00 pm <br> St. Peter's Episcopal Church <br> <a href='https://goo.gl/maps/2GaHxhHfyDGc2zBQ6' target='_blank' rel='noopener noreferrer'> 110 N Warson Rd. </a><br> Transportation provided from The Rtiz and Le Méridien at 4:30 pm"
-    style : "style1 major fa-heart"
-    image : "images/icons/rings_small.png"
+  - name: "Welcome Drinks"
+    content: "April 28th <br> 8:30 pm <br> The Hall at Olive + Oak <br> <a href='https://g.page/oliveandoakstl' target='_blank' rel='noopener noreferrer'> 216 W Lockwood Ave, Webster Groves </a>"
+    style: " style1 major fa-glass-martini-alt"
+    image: "images/icons/champagne_small.png"
+
+  - name: "Ceremony"
+    content: "April 29th <br> 5:00 pm <br> St. Peter's Episcopal Church <br> <a href='https://goo.gl/maps/2GaHxhHfyDGc2zBQ6' target='_blank' rel='noopener noreferrer'> 110 N Warson Rd. </a><br> Transportation provided from The Rtiz and Le Méridien at 4:30 pm"
+    style: "style1 major fa-heart"
+    image: "images/icons/rings_small.png"
 
   - hide: "hide"
 
   - hide: "hide"
-    
-  - name : "Reception"
-    content : "6:00 pm <br> Old Warson Country Club <br> <a href='https://goo.gl/maps/M29F1WfgfVrRoK2p9' target='_blank' rel='noopener noreferrer'> 9841 Old Warson Rd. </a><br> Transportation provided following the ceremony."
-    style : "style1 major fa-glass-cheers"
-    image : "images/icons/party_small.png"
 
-  - name : "Farewell Brunch"
-    content : "10:30 am - 12:30 pm <br> The Ritz-Carlton <br> <a href='https://goo.gl/maps/kg5QfoaFQSnM7xxDA' target='_blank' rel='noopener noreferrer'> 100 Carondelet Plaza </a>"
-    style : "style1 major fa-coffee"
-    image : "images/icons/suitcases_small.png"
- 
+  - name: "Reception"
+    content: "April 29th <br> 6:00 pm <br> Old Warson Country Club <br> <a href='https://goo.gl/maps/M29F1WfgfVrRoK2p9' target='_blank' rel='noopener noreferrer'> 9841 Old Warson Rd. </a><br> Transportation provided following the ceremony."
+    style: "style1 major fa-glass-cheers"
+    image: "images/icons/party_small.png"
+
+  - name: "Farewell Brunch"
+    content: "April 30th <br> 10:30 am - 12:30 pm <br> The Ritz-Carlton <br> <a href='https://goo.gl/maps/kg5QfoaFQSnM7xxDA' target='_blank' rel='noopener noreferrer'> 100 Carondelet Plaza </a>"
+    style: "style1 major fa-coffee"
+    image: "images/icons/suitcases_small.png"
+
   - hide: "hide"
