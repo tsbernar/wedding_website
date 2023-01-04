@@ -103,8 +103,8 @@
 	// Wrapper.
 		$wrapper.children()
 			.scrollex({
-				top:		'30vh',
-				bottom:		'30vh',
+				top:		'10vh',
+				bottom:		'10vh',
 				initialize:	function() {
 					$(this).addClass('is-inactive');
 				},
@@ -127,8 +127,8 @@
 	// Items.
 		$('.items')
 			.scrollex({
-				top:		'30vh',
-				bottom:		'30vh',
+				top:		'10vh',
+				bottom:		'10vh',
 				delay:		50,
 				initialize:	function() {
 					$(this).addClass('is-inactive');
@@ -156,8 +156,8 @@
 			.wrapInner('<div class="inner"></div>')
 			.prepend(browser.mobile ? '' : '<div class="forward"></div><div class="backward"></div>')
 			.scrollex({
-				top:		'30vh',
-				bottom:		'30vh',
+				top:		'10vh',
+				bottom:		'10vh',
 				delay:		50,
 				initialize:	function() {
 					$(this).addClass('is-inactive');
