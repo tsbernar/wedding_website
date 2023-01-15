@@ -1,7 +1,7 @@
 style: "style1 orient-left content-align-center fullscreen onload-image-fade-in onload-content-fade-up"
-title_h2 : "April 29, 2023"
+title_h2: "April 29, 2023"
 id: "diff_style"
-image : "images/ct2.jpg"
+image: "images/ct2.jpg"
 nav_links:
   - name: Events
     link: "#schedule"

@@ -2,6 +2,9 @@
 <section class="banner {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
     <div class="content">
         {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .monogram }}
+            <img src="{{.}}" alt="" style="width:18rem; margin:0 auto"/>
+        {{end}}
         {{ with .title_h2 }}<h2>{{ . }}</h2>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
