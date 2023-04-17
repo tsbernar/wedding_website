@@ -31,7 +31,7 @@ items:
     image: "images/icons/champagne_small.png"
 
   - name: "Ceremony"
-    content: "April 29th <br> 5:00 pm <br> St. Peter's Episcopal Church <br> <a href='https://goo.gl/maps/2GaHxhHfyDGc2zBQ6' target='_blank' rel='noopener noreferrer'> 110 N Warson Rd. </a><br> Transportation provided from The Ritz and Le Méridien at 4:30 pm <br> <i> Black Tie </i>"
+    content: "April 29th <br> 5:00 pm <br> St. Peter's Episcopal Church <br> <a href='https://goo.gl/maps/2GaHxhHfyDGc2zBQ6' target='_blank' rel='noopener noreferrer'> 110 N Warson Rd. </a><br> Transportation for the ceremony will depart the Ritz Carlton and Le Meridien Hotels at 4:30pm. The Ritz Carlton shuttles will pick up on the North side of the building. <br> <i> Black Tie </i>"
     style: "style1 major fa-heart"
     image: "images/icons/rings_small.png"
 
@@ -40,12 +40,12 @@ items:
   - hide: "hide"
 
   - name: "Reception"
-    content: "April 29th <br> 6:00 pm <br> Old Warson Country Club <br> <a href='https://goo.gl/maps/M29F1WfgfVrRoK2p9' target='_blank' rel='noopener noreferrer'> 9841 Old Warson Rd. </a><br> Transportation provided following the ceremony. <br> <i> Black Tie </i>"
+    content: "April 29th <br> 6:00 pm <br> Old Warson Country Club <br> <a href='https://goo.gl/maps/M29F1WfgfVrRoK2p9' target='_blank' rel='noopener noreferrer'> 9841 Old Warson Rd. </a><br> Transportation back to the hotels will be begin at 10:00pm and run until the end of the evening. <br> <i> Black Tie </i>"
     style: "style1 major fa-glass-cheers"
     image: "images/icons/party_small.png"
 
   - name: "Farewell Brunch"
-    content: "April 30th <br> 10:30 am - 12:30 pm <br> The Ritz-Carlton <br> <a href='https://goo.gl/maps/kg5QfoaFQSnM7xxDA' target='_blank' rel='noopener noreferrer'> 100 Carondelet Plaza </a> <br> <i> Casual Attire</i>"
+    content: "April 30th <br> 10:00 am - 12:00 pm <br> The Ritz-Carlton <br> <a href='https://goo.gl/maps/kg5QfoaFQSnM7xxDA' target='_blank' rel='noopener noreferrer'> 100 Carondelet Plaza </a> <br> <i> Casual Attire</i>"
     style: "style1 major fa-coffee"
     image: "images/icons/suitcases_small.png"
 
